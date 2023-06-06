@@ -1,8 +1,8 @@
-using Custody.Client;
+using Custody;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 
-namespace Custody.Client
+namespace Custody
 {
     public class Program
     {
